@@ -1,6 +1,6 @@
 # DT058G
 
-# Versionshantering med GitHub
+# Första uppgiften med Github: Versionshantering med GitHub
 
 Detta repository är skapat för att demonstrera hur man använder GitHub för versionshantering i en webbtjänst.
 Syftet denna uppgift är att skapa ett GitHub-konto, ett publikt repository och en README.md-fil som beskriver uppgiften.
